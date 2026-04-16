@@ -1,0 +1,13 @@
+#+TITLE: Test Reveal Presentation
+#+AUTHOR: Kim
+#+REVEAL_ROOT: ./reveal.js
+#+REVEAL_PLUGINS: nil
+
+* First slide
+Some content on the first slide.
+
+* Second slide
+More content on another slide.
+
+** Sub-slide
+This is a sub-slide under “Second slide”.
